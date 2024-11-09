@@ -67,8 +67,8 @@
         {/each}
 			</select>
 		</div>
-	</div>
+	
 	<button onclick={fetchConversionRate}>Convert</button>
 	<p>Converted amount : {convertedAmount} {toCurrency}</p>
-	
+</div>
 
